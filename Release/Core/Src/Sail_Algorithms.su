@@ -1,0 +1,6 @@
+../Core/Src/Sail_Algorithms.c:11:7:BeaconDistance	8	static
+../Core/Src/Sail_Algorithms.c:17:6:BoatPosition	96	static
+../Core/Src/Sail_Algorithms.c:37:7:AngleFromGeoNorth	16	static
+../Core/Src/Sail_Algorithms.c:49:7:TargetAngleFromGeoNorth	16	static
+../Core/Src/Sail_Algorithms.c:60:7:RudderAngle	8	static
+../Core/Src/Sail_Algorithms.c:70:9:DCMotorDutyCycle	8	static
