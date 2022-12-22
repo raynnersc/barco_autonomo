@@ -1,0 +1,14 @@
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:253:8:str_split	32	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:301:6:getSubstring	24	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:329:6:sendToLogger	8	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:51:6:sendInstruction	16	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:45:6:setupBLE	0	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:60:6:setName	0	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:64:6:setRole	16	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:70:6:setBaud	16	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:76:6:setBeaconUuid	0	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:80:6:setBeaconTramsmittingPower	16	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:243:6:connectMasterToSlave	16	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:249:6:connectMasterToSlaveFromMACAddress	0	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:89:6:setMasterScanForSlaves	8	static
+../Core/Src/Bluetooth_BLE_V4.2_JDY-18.c:108:15:masterScanForSlaves	56	static

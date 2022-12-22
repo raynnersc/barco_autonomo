@@ -1,0 +1,6 @@
+../Core/Src/main.c:240:6:SystemClock_Config	72	static,ignoring_inline_asm
+../Core/Src/main.c:98:5:main	64	static,ignoring_inline_asm
+../Core/Src/main.c:480:6:GetBeaconBTData	56	static
+../Core/Src/main.c:497:6:GetCompassData	0	static
+../Core/Src/main.c:503:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:531:6:Error_Handler	0	static,ignoring_inline_asm
