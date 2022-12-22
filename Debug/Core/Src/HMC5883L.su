@@ -1,0 +1,14 @@
+../Core/Src/HMC5883L.c:40:9:HMC5883L_getSampleAveraging	16	static
+../Core/Src/HMC5883L.c:51:6:HMC5883L_setSampleAveraging	24	static
+../Core/Src/HMC5883L.c:60:9:HMC5883L_getDataRate	16	static
+../Core/Src/HMC5883L.c:78:6:HMC5883L_setDataRate	24	static
+../Core/Src/HMC5883L.c:87:9:HMC5883L_getMeasurementBias	16	static
+../Core/Src/HMC5883L.c:97:6:HMC5883L_setMeasurementBias	24	static
+../Core/Src/HMC5883L.c:119:9:HMC5883L_getRange	16	static
+../Core/Src/HMC5883L.c:139:6:HMC5883L_setRange	16	static
+../Core/Src/HMC5883L.c:153:9:HMC5883L_getMode	16	static
+../Core/Src/HMC5883L.c:167:6:HMC5883L_setMode	16	static
+../Core/Src/HMC5883L.c:181:6:HMC5883L_initialize	16	static
+../Core/Src/HMC5883L.c:202:6:HMC5883L_testConnection	16	static
+../Core/Src/HMC5883L.c:216:6:HMC5883L_measurement	32	static
+../Core/Src/HMC5883L.c:233:6:HMC5883L_calibration	4	static
